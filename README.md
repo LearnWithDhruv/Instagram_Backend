@@ -20,9 +20,6 @@ This project implements the backend of an Instagram-like application using **Fas
    - View comments on a post.
 7. **User Feed**: Retrieve posts from followed users in reverse chronological order with pagination.
 
-### Bonus Features:
-- Placeholder for potential bonus features like search, notifications, or analytics.
-
 ---
 
 ## Project Setup
